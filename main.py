@@ -5,7 +5,7 @@ from pipeline import extract, transform
 
 graph = bonobo.Graph(
     extract.boost.extract_excel,
-    transform.boost.transform_rows,
+    transform.boost.transform_excel,
     # TODO: replace separator with comma
     bonobo.CsvWriter("out.csv", ioformat="arg0")
 )
