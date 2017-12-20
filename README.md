@@ -1,4 +1,4 @@
-# Tunisian finance law data pipeline :🇹🇳:
+# Tunisian finance law data pipeline 🇹🇳 🇹🇳 🇹🇳
 
 The aim of this project is to combine data related to the Tunisian finance law in a structured and granular warehouse to facilitate analysis and visualization.
 
